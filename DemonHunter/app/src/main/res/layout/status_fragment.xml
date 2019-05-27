@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include layout="@layout/transparent_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </android.support.design.widget.AppBarLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@color/black"
+        android:id="@+id/frameLayout">
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/velvetroom"
+            android:id="@+id/status_back"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/protagonist_closeup"
+            android:id="@+id/status_protagonist"
+            android:layout_gravity="right|bottom" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="bottom|left"
+            android:layout_margin="16dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/status_player_name"
+                android:textSize="24sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:text="Makoto"/>
+            <TextView
+                android:layout_marginLeft="5sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/status_player_surname"
+                android:textSize="24sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:text="Yuki"/>
+        </LinearLayout>
+    </FrameLayout>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/player_card"
+        cardElevation="2dp">
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/player_stats"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/hint_text"
+                android:id="@+id/status_title1"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp" />
+
+            <View style="@style/Divider"/>
+
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/money"
+                    android:textStyle="bold"
+                    android:layout_marginRight="5sp"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SOLDI"
+                    android:id="@+id/status_money"
+                    android:textColor="@color/color_accent_a400"
+                    android:layout_marginRight="5sp"
+                    />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/caught_demons"
+                    android:textStyle="bold"
+                    android:layout_marginRight="5sp"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="QUASI TUTTI"
+                    android:id="@+id/status_demoncaught"
+                    android:textColor="@color/color_accent_a400"
+                    android:layout_marginRight="5sp"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="/ TUTTI"
+                    android:id="@+id/status_demoncaught_max"
+                    android:layout_marginRight="5sp"
+                    />
+            </LinearLayout>
+
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/charisma"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginRight="5sp"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/charm"
+                        android:textStyle="bold"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginRight="5sp"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/luck"
+                        android:textStyle="bold"
+                        android:layout_marginRight="5sp"
+                        />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="10dp">
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="QUASI TUTTI"
+                        android:background="@color/color_accent_a400"
+                        android:id="@+id/status_charisma"
+                        android:textAlignment="viewEnd"
+                        android:textColor="@color/white"
+                        android:paddingRight="3sp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginRight="5sp"
+                        />
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="QUASI TUTTI"
+                        android:background="@color/red_700"
+                        android:id="@+id/status_charm"
+                        android:textAlignment="viewEnd"
+                        android:textColor="@color/white"
+                        android:paddingRight="3sp"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginRight="5sp"
+                        />
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="QUASI TUTTI"
+                        android:background="@color/color_primary_500"
+                        android:id="@+id/status_luck"
+                        android:textAlignment="viewEnd"
+                        android:textColor="@color/white"
+                        android:paddingRight="3sp"
+                        android:layout_marginRight="5sp"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        cardElevation="2dp">
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="@string/inventory"
+                android:textStyle="bold"
+                android:textAllCaps="true"
+                android:textColor="@color/hint_text"
+                android:id="@+id/status_title2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="0dp" />
+
+            <View style="@style/Divider"/>
+
+            <ListView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/status_item_list"
+                android:layout_marginTop="-5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="10dp"/>
+
+            </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

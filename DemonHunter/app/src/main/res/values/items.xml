@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dark_globe">Dark Globe</string>
+    <string name="dark_globe_desc">A concentration of dark energy, which reinvigorates demons.</string>
+    <string name="charisma_proteins">Protein Snack</string>
+    <string name="charisma_proteins_desc">Used by bodybuilders. Buffs your muscles and gives you a gruff appearance. (Charisma +1)</string>
+    <string name="charm_infusion">Relaxing Infusion</string>
+    <string name="charm_infusion_desc">Made of seventeen different herbs, this natural wonder helps you regain your inner focus. (Charm +1)</string>
+    <string name="luck_pudding">Lucky Pudding</string>
+    <string name="luck_pudding_desc">A spoonful of this rare delicacy is said to counter any misfortune bound to happen to you. (Luck +1)</string>
+    <string name="battery_pack">Battery Pack</string>
+    <string name="battery_pack_description">This lifesaver plugs directly into the Demonscope and gives another chance to find demons nearby.</string>
+    <string name="upgraded_code">Software Update</string>
+    <string name="upgraded_code_desc">Thanks to the marvels of cloud computing, the Demonscope can now find more demons on the map.</string>
+    <string name="ate">ate</string>
+    <string name="drank">drank</string>
+</resources>

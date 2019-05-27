@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chariot_arcana">Chariot</string>
+    <string name="death_arcana">Death</string>
+    <string name="devil_arcana">Devil</string>
+    <string name="emperor_arcana">Emperor</string>
+    <string name="empress_arcana">Empress</string>
+    <string name="fool_arcana">Fool</string>
+    <string name="fortune_arcana">Fortune</string>
+    <string name="hangedman_arcana">Hanged Man</string>
+    <string name="hermit_arcana">Hermit</string>
+    <string name="hierophant_arcana">Hierophant</string>
+    <string name="judgement_arcana">Judgement</string>
+    <string name="justice_arcana">Justice</string>
+    <string name="lovers_arcana">Lovers</string>
+    <string name="magician_arcana">Magician</string>
+    <string name="moon_arcana">Moon</string>
+    <string name="priestess_arcana">Priestess</string>
+    <string name="star_arcana">Star</string>
+    <string name="strength_arcana">Strength</string>
+    <string name="sun_arcana">Sun</string>
+    <string name="temperance_arcana">Temperance</string>
+    <string name="tower_arcana">Tower</string>
+    <string name="world_arcana">World</string>
+</resources>

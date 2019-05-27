@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name" translatable="false">Demon Hunter</string>
+    <string name="title_activity_demon_scope">DemonScope</string>
+    <string name="NULL_STRING" translatable="false"> </string>
+    <string name="why_permissions">
+        This game requires access to the GPS location service. Please grant the permission.
+    </string>
+    <string name="not_ready">The Demonscope is not ready yet!</string>
+    <string name="request_gps">The GPS is off. Do you want to go to Settings and enable it?</string>
+    <string name="demonscope_low_battery">The Demonscope is low on battery after using it %1$d times. You have to wait %2$dh %3$dm %4$ds!</string>
+    <string name="player">Player</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="nomark">Couldn\'t find demons nearby. Go somewhere with more roads (demons LOVE roads)!</string>
+    <string name="demon_catch_confirm">Do you want to try searching for the demon?</string>
+    <string name="internet_not_found">It seems that you aren\'t connected to the Internet. Do you want to change your Settings?</string>
+    <string name="search_demons">Searching for nearby demons&#8230;</string>
+    <string name="demonscope">Demonscope</string>
+    <string name="blank">Blank</string>
+    <string name="demons_present">The demons on map will run away. Continue anyway?</string>
+    <string name="alert">The demon is alerted by your presence&#8230;</string>
+    <string name="connectivity_status">Connectivity status</string>
+    <string name="connectivity">Connectivity</string>
+    <string name="bluetooth_not_present">Bluetooth is not available.</string>
+    <string name="bluetooth_off">Bluetooth is off.</string>
+    <string name="bluetooth_on">Bluetooth is on.</string>
+    <string name="bluetooth_not_present_desc">Your device doesn\'t support Bluetooth communications.</string>
+    <string name="bluetooth_off_desc">Tap the button to activate it.</string>
+    <string name="bluetooth_on_desc">You can trade with other hunters.</string>
+    <string name="nfc_not_present">NFC is not available.</string>
+    <string name="nfc_off">NFC is off.</string>
+    <string name="nfc_ab_off">Android Beam is off.</string>
+    <string name="nfc_on">NFC is on.</string>
+    <string name="nfc_not_present_desc">Your device doesn\'t support NFC communications.</string>
+    <string name="nfc_off_desc">Tap the button to activate it.</string>
+    <string name="nfc_on_desc">You can say hello to other hunters.</string>
+    <string name="start_trade_server">Begin a trade</string>
+    <string name="start_trade_client">Accept a trade</string>
+    <string name="meet_ok">A passerby hunter gave a %1$s to you!</string>
+    <string name="meet_no">You already met this hunter today!</string>
+    <string name="run">Do you really give up on catching the demon?</string>
+    <string name="choose_demon">Choose a demon to trade.</string>
+    <string name="no_caught_demons">You don\'t have any demon to trade&#8230;</string>
+    <string name="arcana">Arcana</string>
+    <string name="caught_name">Caught</string>
+    <string name="distance">Distance</string>
+    <string name="must_discover">You must be discoverable to start a trade.</string>
+    <string name="bt_device_string">Nearby Bluetooth devices</string>
+    <string name="no_hunter_nearby">Nobody answered your trade proposal.</string>
+    <string name="bluetooth_accepting">Bluetooth is connecting&#8230;</string>
+    <string name="bluetooth_accepting_desc">Waiting for a hunter to contact you.</string>
+    <string name="trade_success">You sent a %1$s to %2$s %3$s, and in turn you received %4$s!</string>
+    <string name="trade_fail">Something has gone wrong and the trade wasn\'t completed.</string>
+    <string name="quirk">Quirk</string>
+    <string name="description">Description</string>
+    <string name="select_demon">Select a demon</string>
+    <string name="no_demon">You still haven\'t caught any demon. Use the Demonscope!</string>
+    <string name="dex">Encyclopædia Demonis</string>
+    <string name="demon_information_text">Demon information</string>
+    <string name="junes_department_store">Junes Department Store</string>
+    <string name="junes_ad">At Junes, every day is customer appreciation day!</string>
+    <string name="junes_jingle">%1$s Everyday\'s great at your Junes! %2$s</string>
+    <string name="money_1">You have</string>
+    <string name="yen" translatable="false">yen.</string>
+    <string name="products">Products</string>
+    <string name="clerk">Clerk</string>
+    <string name="wanna_buy">Do you want to buy a %1$s for %2$s yen?</string>
+    <string name="no_enough_money">You don\'t have enough money&#8230;</string>
+    <string name="purchase_ok">Thanks, come again!</string>
+    <string name="status">Status</string>
+    <string name="player_stats">Player Stats</string>
+    <string name="money">Money:</string>
+    <string name="caught_demons">Caught demons:</string>
+    <string name="charisma">Charisma:</string>
+    <string name="charm">Charm:</string>
+    <string name="luck">Luck:</string>
+    <string name="inventory">Inventory</string>
+    <string name="use">Use</string>
+    <string name="not_usable">This item is not usable.</string>
+    <string name="incr_charisma">Your Charisma increased by 1!</string>
+    <string name="max_charisma">You can\'t increase your Charisma any further.</string>
+    <string name="incr_charm">Your Charm increased by 1!</string>
+    <string name="max_charm">You can\'t increase your Charm any further.</string>
+    <string name="incr_luck">Your Luck increased by 1!</string>
+    <string name="max_luck">You can\'t increase your Luck any further.</string>
+    <string name="exit_app">Do you want to close the game?</string>
+</resources>

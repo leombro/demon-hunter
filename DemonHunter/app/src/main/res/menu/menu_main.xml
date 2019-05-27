@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item android:title="@string/demonscope" android:id="@+id/menu_demonscope" android:icon="@drawable/ic_speaker_phone_black_24dp"/>
+        <item android:title="@string/connectivity" android:id="@+id/connectivity_menu" android:icon="@drawable/ic_swap_horiz_black_24dp"/>
+        <item android:title="@string/dex" android:id="@+id/demondex_menu" android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item android:title="@string/junes_department_store" android:id="@+id/junes_menu" android:icon="@drawable/ic_local_grocery_store_black_24dp"/>
+    </group>
+    <group android:menuCategory="secondary" android:checkableBehavior="none">
+        <item android:title="Debug">
+            <menu>
+                <item android:title="Reset Database" android:id="@+id/debug"/>
+                <item android:title="Cheat" android:id="@+id/cheat" />
+            </menu>
+        </item>
+    </group>
+</menu>

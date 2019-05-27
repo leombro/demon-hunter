@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dark_globe">Globoscuro</string>
+    <string name="dark_globe_desc">Concentra in sé energia oscura, di cui i demoni vanno ghiotti.</string>
+    <string name="charisma_proteins">Barretta Proteica</string>
+    <string name="charisma_proteins_desc">Usata dai bodybuilder, tonifica i muscoli e ti rende più arcigno. (Carisma +1)</string>
+    <string name="charm_infusion">Decotto Relax</string>
+    <string name="charm_infusion_desc">Questo infuso di diciassette erbe diverse è una meraviglia naturale che ti farà ritrovare la pace interiore. (Fascino +1)</string>
+    <string name="luck_pudding">Budino Propizio</string>
+    <string name="luck_pudding_desc">Una cucchiaiata di questa rara bontà scaccia via ogni malocchio. (Fortuna +1)</string>
+    <string name="battery_pack">Batteria di riserva</string>
+    <string name="battery_pack_description">Collegala all\'apposita presa del Demonscopio e ti garantirà una chance al giorno in più di trovare demoni nei dintorni.</string>
+    <string name="upgraded_code">Aggiornamento Software</string>
+    <string name="upgraded_code_desc">Grazie alle meraviglie del cloud computing, il Demonscopio potrà ora trovare più demoni sulla mappa.</string>
+    <string name="ate">mangiato</string>
+    <string name="drank">bevuto</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="begin1">Welcome to the Velvet Room.</string>
+    <string name="begin2">This place exists between dream and reality, mind and matter.</string>
+    <string name="begin3">I am <font fgcolor="blue">Igor</font>, a servant of Philemon.</string>
+    <string name="begin4">But that\'s not important at this moment.</string>
+    <string name="begin5">Your world is in grave danger.</string>
+    <string name="begin6">Demons from other dimensions threaten your peaceful lives.</string>
+    <string name="begin7">I see that you hold a <font fgcolor="blue">smartphone</font> in your hands.</string>
+    <string name="begin8">The technology behind such devices is unknown to me, but I know that they can be helpful.</string>
+    <string name="begin9">I can give you a <font fgcolor="red">Demonscope</font> - a device that can find and reveal demons around you.</string>
+    <string name="begin10">But first, tell me about you. What\'s your name?</string>
+    <string name="begin11">Good, %1$s %2$s. I have already ended preparations for your Demonscope.</string>
+    <string name="begin12">To use it, enable the GPS of your device. Wait for the Demonscope to find your position, and push the green button to reveal demons around you.</string>
+    <string name="begin13">You must then concentrate and use your mind to dispel the demon\'s illusion.</string>
+    <string name="begin14">When you finally confront the demon, use your wit and capabilities to convince it to join you.</string>
+    <string name="begin15">Use the <font fgcolor="red">Wild Card Arcana</font> - the embodiment of your infinite potential - to ensnare the demon and tame it.</string>
+    <string name="begin16">You won\'t be alone in your quest. There are other players that are currently preventing the demon menace.</string>
+    <string name="begin17">If you encounter one of them, you can even trade informations about the demon you\'ve captured.</string>
+    <string name="begin18">That\'s all the support I can give you. Best of luck.</string>
+    <string name="longnose">Long Nose</string>
+    <string name="insert_name">Insert your name and surname.</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actions">Azioni</string>
+    <string name="arcana_confirm">Vuoi usare una carta degli Arcani?</string>
+    <string name="escape">%1$s è scappato&#8230;</string>
+    <string name="restless">%1$s si sta spazientendo&#8230;</string>
+    <string name="joke">Scherza</string>
+    <string name="joke_msg">Hai raccontato una battuta sconcia a %1$s!</string>
+    <string name="joke_res_1">Ahah! Sei divertente, umano!</string>
+    <string name="joke_res_2">Quella&#8230; era una battuta? Non l\'ho capita.</string>
+    <string name="joke_res_3">Buuh! Questa battuta <b>FA SCHIFO</b>, umano!</string>
+    <string name="persuade">Persuadi</string>
+    <string name="persuade_msg">Hai persuaso %1$s con un tono di voce soave.</string>
+    <string name="persuade_res_1">Oh, umano&#8230; Così arrossisco, %1$s!</string>
+    <string name="persuade_res_2">E perché dovrebbe importarmene, %1$s?</string>
+    <string name="persuade_res_3">Mi prendi in giro, %1$s? Mi sto arrabbiando!</string>
+    <string name="provoke">Provoca</string>
+    <string name="provoked_msg">Hai provocato %1$s!</string>
+    <string name="provoked_res_1">%1$s&#8230; Sei davvero <b>così</b> potente?!?</string>
+    <string name="provoked_res_2">Heh, come se ciò bastasse ad impressionarmi!</string>
+    <string name="provoked_res_3">Umano! %1$s! Non farlo <i>mai</i> più o ti spezzo in due!</string>
+    <string name="yell">Sbraita</string>
+    <string name="yell_msg">Hai inveito prepotentemente contro %1$s.</string>
+    <string name="yell_res_1">N-non urlare a questo povero demone, %1$s&#8230;</string>
+    <string name="yell_res_2">Perché diavolo urli? Sono qui davanti!</string>
+    <string name="yell_res_3">Grrr, stupido umano! Non <b>OSARE</b> farlo mai più!</string>
+    <string name="wants_item">%1$s, dammi %2$s!</string>
+    <string name="wants_money">Sai, mi farebbero comodo dei soldi. Dammi delim%1$d yen, %2$s!</string>
+    <string name="give_money_msg">Vuoi dare delim%1$d yen a %2$s? Attualmente ne hai %3$d.</string>
+    <string name="give_item_msg">Vuoi dare %1$s a %2$s? Attualmente ne hai %3$d.</string>
+    <string name="not_enough">Non ne hai abbastanza.</string>
+    <string name="gave">%1$s, grazie!</string>
+    <string name="no_1">Sei perfido, umano!</string>
+    <string name="no_2">Cosa? Osi opporti alla mia richiesta?</string>
+    <string name="respect">Hai guadagnato il rispetto di %1$s.</string>
+    <string name="friendly">%1$s si mostra un pochino più amichevole.</string>
+    <string name="neutral">%1$s ti guarda con indifferenza.</string>
+    <string name="angry">%1$s si sta arrabbiando.</string>
+    <string name="pissed">%1$s è infuriato!</string>
+    <string name="give_money_1">Tieni, ecco un po\' di soldi, %1$s!</string>
+    <string name="give_money_2">%1$s ti porge delim%2$d yen.</string>
+    <string name="give_item_1">Ti regalo una cosa, %1$s!</string>
+    <string name="give_item_2">%1$s ti porge %2$s.</string>
+    <string name="wipe_messages">Cancella tutto</string>
+    <string name="wildcard_use">Vuoi davvero usare la carta del Jolly?</string>
+    <string name="caught">Hai preso %1$s. Ben fatto!</string>
+</resources>

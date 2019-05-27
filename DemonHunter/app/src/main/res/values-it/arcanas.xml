@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chariot_arcana">Il Carro</string>
+    <string name="death_arcana">La Morte</string>
+    <string name="devil_arcana">Il Diavolo</string>
+    <string name="emperor_arcana">L\'Imperatore</string>
+    <string name="empress_arcana">L\'Imperatrice</string>
+    <string name="fool_arcana">Il Matto</string>
+    <string name="fortune_arcana">La Fortuna</string>
+    <string name="hangedman_arcana">L\'Impiccato</string>
+    <string name="hermit_arcana">L\'Eremita</string>
+    <string name="hierophant_arcana">Il Papa</string>
+    <string name="judgement_arcana">Il Giudizio</string>
+    <string name="justice_arcana">La Giustizia</string>
+    <string name="lovers_arcana">Gli Amanti</string>
+    <string name="magician_arcana">Il Mago</string>
+    <string name="moon_arcana">La Luna</string>
+    <string name="priestess_arcana">La Papessa</string>
+    <string name="star_arcana">La Stella</string>
+    <string name="strength_arcana">La Forza</string>
+    <string name="sun_arcana">Il Sole</string>
+    <string name="temperance_arcana">La Temperanza</string>
+    <string name="tower_arcana">La Torre</string>
+    <string name="world_arcana">Il Mondo</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/black"
+            android:id="@+id/frameLayout">
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/back1"
+                android:id="@+id/backdrop"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ishtar"
+                android:layout_gravity="right|center_vertical"
+                android:id="@+id/demon_neg"
+                android:transitionName="demon"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ishtar"
+                android:layout_gravity="right|center_vertical"
+                android:id="@+id/demon_neg2"
+                android:visibility="invisible"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textColor="@color/white"
+                android:textStyle="italic"
+                android:textSize="24sp"
+                android:typeface="normal"
+                android:id="@+id/textView2"
+                android:layout_gravity="left|bottom"
+                android:layout_margin="15dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textColor="@color/white"
+                android:textStyle="italic"
+                android:textSize="24sp"
+                android:typeface="normal"
+                android:id="@+id/textViewOverlay"
+                android:layout_gravity="left|bottom"
+                android:layout_margin="15dp" />
+
+        </FrameLayout>
+        <include layout="@layout/negotiation_card" android:id="@+id/negcard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/frameLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="15dp" />
+        <android.support.v7.widget.RecyclerView android:id="@+id/recyview"
+            android:layout_below="@id/negcard"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/eliminate_all" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/eliminate_all"
+            android:text="@string/wipe_messages"
+            style="?android:attr/borderlessButtonStyle"
+            android:visibility="invisible"
+            android:layout_gravity="bottom|end"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal"
+        android:id="@+id/shower"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:visibility="invisible">
+        <ImageView android:id="@+id/monsterwhite"
+            android:src="@drawable/abaddon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" />
+    </LinearLayout>
+</io.codetail.widget.RevealFrameLayout>

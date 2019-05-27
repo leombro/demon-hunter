@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="begin1">Benvenuto nella Velvet Room.</string>
+    <string name="begin2">Questo posto esiste tra sogno e realtà, tra mente e materia.</string>
+    <string name="begin3">Io sono <font fgcolor="blue">Igor</font>, un servo di Philemon.</string>
+    <string name="begin4">Ma ciò non è importante al momento.</string>
+    <string name="begin5">Il vostro mondo è in grave pericolo.</string>
+    <string name="begin6">Demoni da altre dimensioni minacciano le vostre pacifiche vite.</string>
+    <string name="begin7">Vedo che hai uno <font fgcolor="blue">smartphone</font> tra le mani.</string>
+    <string name="begin8">La tecnologia dietro tali dispositivi mi è ignota, ma confido che possano essere utili alla causa.</string>
+    <string name="begin9">Posso darti un <font fgcolor="red">Demonscopio</font> - un dispositivo per cercare e rivelare demoni attorno a te.</string>
+    <string name="begin10">Prima di tutto, dimmi qualcosa su di te. Come ti chiami?</string>
+    <string name="begin11">Bene, %1$s %2$s. Ho già preparato il tuo Demonscopio.</string>
+    <string name="begin12">Per usarlo, abilita il GPS del tuo dispositivo. Attendi che il Demonscopio ti localizzi, poi premi il pulsante verde per rivelare dei demoni attorno a te.</string>
+    <string name="begin13">Dovrai poi concentrarti e cercare di spezzare l\'illusione perpetrata dal demone.</string>
+    <string name="begin14">Quando finalmente confronterai il demone, usa il tuo intelletto e le tue capacità per convincerlo ad unirsi a te.</string>
+    <string name="begin15">Usa la <font fgcolor="red">carta del Jolly</font> - simbolo del tuo infinito potenziale - per soggiogare il demone e calmarlo.</string>
+    <string name="begin16">Non sarai da solo nel tuo compito. Altri giocatori stanno usando il Demonscopio per prevenire la minaccia dei demoni.</string>
+    <string name="begin17">Se incontri un altro giocatore, potreste persino scambiarvi informazioni sui demoni sino ad allora catturati.</string>
+    <string name="begin18">Questo è tutto il supporto che posso darti. Buona fortuna.</string>
+    <string name="longnose">Nasolungo</string>
+    <string name="insert_name">Inserisci il tuo nome e cognome.</string>
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+</resources>

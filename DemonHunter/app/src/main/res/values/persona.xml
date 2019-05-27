@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ares">Ares</string>
+    <string name="ares_description">The god of war in greek myth. Other gods despised him for his cruel and violent nature. Opposed Athena, who represented strategic warfare.</string>
+    <string name="alice">Alice</string>
+    <string name="alice_description">A ghost who appears as a young blonde girl. She seems young, but has formidable magic powers. Some say she\'s the ghost of a poor English girl who died an unfortunate death.</string>
+    <string name="belphegor">Belphegor</string>
+    <string name="belphegor_description">Demonic governor of the deadly sin of sloth, who also excels at invention and discovery. May derive from Ba\'al Pe\'or, Syrian god of abundant crops.</string>
+    <string name="thoth">Thoth</string>
+    <string name="thoth_description">Egyptian moon god that takes the form of a baboon. He is the measurer of time, and gave Isis the power to resurrect Osiris after he was killed by the evil god Seth.</string>
+    <string name="isis">Isis</string>
+    <string name="isis_description">Osiris\'s wife as well as his younger sister. Upon the death of her husband, she revived him with her incredible magic power. Isis is seen at many gravesites as the guardian goddess of the dead.</string>
+    <string name="orpheus">Orpheus</string>
+    <string name="orpheus_description">A poet of Greek mythology skilled with the lyre. He tried to retrieve his wife, Eurydice, from Hades, but she vanished when he looked back before reaching the surface.</string>
+    <string name="berith">Berith</string>
+    <string name="berith_description">One of the 72 demons of the Goetia. He rides a gigantic horse and burns those without manners. He is the duke of Hell.</string>
+    <string name="nidhoggr">Nidhoggr</string>
+    <string name="nidhoggr_description">An evil dragon that gnaws on the roots of Yggdrasil, the World Tree. It rules over the evil snakes that live there. Capable of surviving Ragnarok by feeding on the slain corpses that drift to it.</string>
+    <string name="cerberus">Cerberus</string>
+    <string name="cerberus_description">The guardian hound of Tartarus in Greek myth. It is the offspring of Typhon, the giant of wind, and Echidna, the mother of monsters. Orthrus is its older brother.</string>
+    <string name="metatron">Metatron</string>
+    <string name="metatron_description">One of the most important angels in the hierarchy, yet the most mysterious. He is the scribe and advocate of Heaven.</string>
+    <string name="melchizedek">Melchizedek</string>
+    <string name="melchizedek_description">An angel of Gnosticism, said to be born from Sophia. In the Bible, he is mentioned as a righteous king.</string>
+    <string name="ishtar">Ishtar</string>
+    <string name="ishtar_description">Goddess of war and love, revered in ancient Mesopotamia. She seduced many men to their doom, but the hero Gilgamesh spurned her, causing her to murder his best friend Enkidu.</string>
+    <string name="jackfrost">Jack Frost</string>
+    <string name="jackfrost_description">A winter fairy of European descent. Normally an innocent creature, but if provoked, he will kill his victim by covering him in snow.</string>
+    <string name="alraune">Alraune</string>
+    <string name="alraune_description">A cursed Norse spirit in the form of a beautiful woman, known to bloom from the blood of hanged men. She was believed to tell secrets if properly tended to.</string>
+    <string name="highpixie">High Pixie</string>
+    <string name="highpixie_description">The leader of a swarm of pixies. Any pixie in a leadership role or with remarkable power, is called by this name.</string>
+    <string name="nekoshogun">Neko Shogun</string>
+    <string name="nekoshogun_description">A prophetic Taoist god, originally known as Mao Shogun. Due to a linguistic error involving the Chinese word for cat, his name was changed to Neko Shogun.</string>
+    <string name="valkyrie">Valkyrie</string>
+    <string name="valkyrie_description">\'Choosers of the slain\' in Norse mythology. Armed with shining armor and spears, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.</string>
+    <string name="yatagarasu">Yatagarasu</string>
+    <string name="yatagarasu_description">A divine creature in Japanese myth. They are three-legged birds sent by Amaterasu to help humans. It is said that they helped Emperor Jinmu claim victory.</string>
+    <string name="vishnu">Vishnu</string>
+    <string name="vishnu_description">One of the major gods in Hindu myth, he is the preserver of the universe. It is believed that he will descend to earth ten times to maintain the balance of power.</string>
+    <string name="abaddon">Abaddon</string>
+    <string name="abaddon_description">The "destroyer" and angel of the bottomless pit, as described in ancient scriptures. He controls locusts and uses them to cause massive destruction to villages.</string>
+    <string name="izanaginookami">Izanagi-no-Okami</string>
+    <string name="izanaginookami_description">One of the ancient gods who existed before Japan began. He created the Oyashima from chaos, then gave birth to countless children who laid the foundation of soil and nature.</string>
+    <string name="lachesis">Lachesis</string>
+    <string name="lachesis_description">One of the three Moirae sisters of fate in Greek Mythology. She is the apportioner, measuring the thread which determines the life span of a person.</string>
+</resources>

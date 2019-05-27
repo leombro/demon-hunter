@@ -1,0 +1,57 @@
+<android.support.design.widget.CoordinatorLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/MapLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/map"
+        android:clickable="true">
+
+    </FrameLayout>
+    <android.support.design.widget.FloatingActionButton android:id="@+id/FABMap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_my_location_white_24dp"
+        android:layout_margin="16dp"
+        android:theme="@style/GreenFAB"
+        app:fabSize="normal"
+        app:layout_anchor="@id/map"
+        app:layout_anchorGravity="bottom|right|end"
+        android:visibility="invisible"
+        android:clickable="true"/>
+    <com.github.jorgecastilloprz.FABProgressCircle android:id="@+id/progress2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_anchor="@id/map"
+        app:layout_anchorGravity="bottom|right|end"
+        app:arcColor="@color/green_700"
+        app:finalIcon="@drawable/ic_done"
+        app:layout_behavior=".FABBehavior">
+        <android.support.design.widget.FloatingActionButton android:id="@+id/FABMapCross"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_block_white_24dp"
+            android:layout_margin="16dp"
+            app:theme="@style/RedFAB"
+            app:fabSize="normal"
+            android:visibility="visible"
+            android:clickable="true"
+            />
+    </com.github.jorgecastilloprz.FABProgressCircle>
+    <me.zhanghai.android.materialprogressbar.MaterialProgressBar android:id="@+id/generate_progressbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:indeterminate="true"
+        app:layout_anchor="@id/map"
+        app:layout_anchorGravity="bottom|center"
+        app:mpb_progressStyle="horizontal"
+        style="@style/Widget.MaterialProgressBar.ProgressBar.Horizontal"
+        app:layout_behavior=".BarBehavior"
+        android:visibility="gone"/>
+</android.support.design.widget.CoordinatorLayout>

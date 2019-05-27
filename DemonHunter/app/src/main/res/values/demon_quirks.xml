@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ares_quirk">wraaaah</string>
+    <string name="abaddon_quirk">blargh</string>
+    <string name="alice_quirk">hee hee</string>
+    <string name="alraune_quirk">ooh</string>
+    <string name="belphegor_quirk">mph</string>
+    <string name="berith_quirk">hyy-ah</string>
+    <string name="cerberus_quirk">roar</string>
+    <string name="highpixie_quirk">mimi</string>
+    <string name="isis_quirk">ohw</string>
+    <string name="izanaginookami_quirk">psh</string>
+    <string name="jackfrost_quirk">hee-ho</string>
+    <string name="melchizedek_quirk">pfooh</string>
+    <string name="metatron_quirk">yeh</string>
+    <string name="nekoshogun_quirk">purr</string>
+    <string name="nidhoggr_quirk">garblrah</string>
+    <string name="lachesis_quirk">menè</string>
+    <string name="orpheus_quirk">dleng</string>
+    <string name="thoth_quirk">uwah</string>
+    <string name="valkyrie_quirk">doth</string>
+    <string name="vishnu_quirk">sheesh</string>
+    <string name="yatagarasu_quirk">raww</string>
+    <string name="ishtar_quirk">hmm</string>
+</resources>

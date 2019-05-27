@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actions">Actions</string>
+    <string name="provoke">Provoke</string>
+    <string name="persuade">Persuade</string>
+    <string name="joke">Joke</string>
+    <string name="yell">Yell</string>
+    <string name="provoked_msg">You provoked %1$s!</string>
+    <string name="provoked_res_1">%1$s&#8230; Are you really <b>that</b> powerful?!?</string>
+    <string name="provoked_res_2">Heh, as if that would impress me!</string>
+    <string name="provoked_res_3">Human! %1$s! Don\'t do <i>that</i> again or I\'ll crush you!</string>
+    <string name="persuade_msg">You persuaded %1$s with a charming voice.</string>
+    <string name="persuade_res_1">Oh, human&#8230; You flatter me, %1$s!</string>
+    <string name="persuade_res_2">And why should I care, %1$s?</string>
+    <string name="persuade_res_3">Are you mocking me, %1$s? I\'m getting mad!</string>
+    <string name="joke_msg">You entertained %1$s with a dirty joke!</string>
+    <string name="joke_res_1">Hah, you\'re good at this, human!</string>
+    <string name="joke_res_2">Was&#8230; was that a joke? I didn\'t quite catch it.</string>
+    <string name="joke_res_3">Boo! That sucked <b>SO BAD</b>, human!</string>
+    <string name="yell_msg">You yelled angrily at %1$s.</string>
+    <string name="yell_res_1">D-don\'t yell at this poor demon, %1$s&#8230;</string>
+    <string name="yell_res_2">Why are you shouting? I\'m right here, you know.</string>
+    <string name="yell_res_3">Grrr, stupid human! Don\'t you <b>DARE</b> do this again!</string>
+    <string name="escape">%1$s has escaped&#8230;</string>
+    <string name="restless">%1$s is losing its patience&#8230;</string>
+    <string name="arcana_confirm">Do you want to use an arcana card?</string>
+    <string name="wants_item">%1$s, give me a %2$s!</string>
+    <string name="wants_money">You know, I could really use some money. Give me delim%1$d yen, %2$s!</string>
+    <string name="give_money_msg">Do you want to fork delim%1$d yen to %2$s? You have %3$d.</string>
+    <string name="give_item_msg">Do you want to give a %1$s to %2$s? You have %3$d.</string>
+    <string name="not_enough">You don\'t have enough.</string>
+    <string name="gave">%1$s, thanks!</string>
+    <string name="no_1">You are a mean human!</string>
+    <string name="no_2">What? You dare deny my request?!</string>
+    <string name="respect">%1$s respects you a lot.</string>
+    <string name="friendly">%1$s became a bit more friendly towards you.</string>
+    <string name="neutral">%1$s feels indifferent towards you.</string>
+    <string name="angry">You\'re starting to make %1$s angry.</string>
+    <string name="pissed">%1$s is furious!</string>
+    <string name="give_money_1">Here, take some money, %1$s!</string>
+    <string name="give_money_2">%1$s gave you delim%2$d yen.</string>
+    <string name="give_item_1">I\'ll give you this, %1$s!</string>
+    <string name="give_item_2">%1$s gave you a %2$s.</string>
+    <string name="wipe_messages">Wipe all messages</string>
+    <string name="wildcard_use">Do you really want to use the Wild Card?</string>
+    <string name="caught">You got %1$s. Great job!</string>
+</resources>
